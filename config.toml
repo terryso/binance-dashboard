@@ -1,0 +1,13 @@
+[app]
+name = "Binance Futures Dashboard"
+refresh_interval = 60
+theme = "dark"
+
+[binance]
+use_testnet = false
+timeout = 30
+
+[display]
+default_currency = "USDT"
+timezone = "UTC"
+date_format = "%Y-%m-%d %H:%M:%S"

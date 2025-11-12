@@ -1,0 +1,7 @@
+streamlit>=1.28.0
+python-binance>=1.0.19
+pandas>=2.0.0
+plotly>=5.15.0
+requests>=2.31.0
+python-dotenv>=1.0.0
+toml>=0.10.2
